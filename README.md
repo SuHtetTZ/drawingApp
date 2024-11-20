@@ -1,7 +1,7 @@
 # drawingApp
 a drawing application made with java
 
-This is a drawing application written with java during 2017.
+This is a drawing application written with java during 2018.
 
 What this application does:
 The program provides the users accounts to gain access to the program. 
